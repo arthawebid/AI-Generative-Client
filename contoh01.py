@@ -60,3 +60,5 @@ def ask_ai(prompt="", model="flash", url=""):
 
 isi = ask_ai(prompt="apa yang dimaksud dengan AI Model", model="flash", url="https://gemini.ptov.my.id")
 print(isi) 
+isi = ask_ai(prompt="apa yang dimaksud dengan AI Model", model="flash", url="https://qwen.ptov.my.id")
+print(isi) 
